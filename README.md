@@ -1,6 +1,6 @@
-# JS2021_G4_Groupe E
+# STARSHIP
 
-## Auteur de Tp-starship :
+## Auteur du projet starship :
 -HADJOU TAYEB
 -Gaci NOUFEL
 -Degnon Glenn Youbi
